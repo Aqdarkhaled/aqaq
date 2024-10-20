@@ -1,0 +1,27 @@
+*{
+    padding: 0;
+    margin: 0;
+    border: 0;
+}
+body{
+    background-color: blanchedalmond;
+}
+.form d-flex{
+    border-radius: 20px;
+}
+.c-item{
+    height: 100%;
+    padding: 50px;
+}
+.c-img{
+height: 100%;
+object-fit: cover;
+filter: brightness(0,0);
+position: center;
+}
+.navbar-nav{
+    float: right;
+}
+.card-body{
+    text-align: center;
+}
